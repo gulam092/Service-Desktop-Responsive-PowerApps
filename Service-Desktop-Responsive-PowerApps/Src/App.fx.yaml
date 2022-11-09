@@ -1,0 +1,29 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |-
+        =ClearCollect(
+            colTabs,
+            {
+                ID: 1,
+                Name: "All Tikets",
+                Logo: Icon.Tag
+            },{
+        
+         ID: 2,
+                Name: "My Tikets",
+                Logo: Icon.LogJournal
+        
+            },
+            {
+                 ID: 3,
+                Name: "Assigned to Me",
+                Logo: Icon.Clock
+            },
+            {
+                 ID: 4,
+                Name: "Information",
+                Logo: Icon.Information
+            }
+        );
+        Set(varTabSelected,1);   
+

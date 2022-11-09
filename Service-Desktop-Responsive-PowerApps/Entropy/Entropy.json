@@ -1,0 +1,89 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button6": 13,
+    "Canvas1": 8,
+    "DataCard1": 9,
+    "Gallery2": 11,
+    "galleryTemplate2": 12,
+    "HomeScreen": 3,
+    "Icon2": 14,
+    "Image2": 5,
+    "Label1": 6,
+    "Label2": 7,
+    "Label3": 15,
+    "Rectangle3": 16,
+    "RectQuickActionBar1": 4,
+    "TabsContainer": 10
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "11/09/2022 05:47:32",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "colTabs": 1,
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 6,
+    "fluidGrid": 3,
+    "gallery": 5,
+    "groupContainer": 4,
+    "icon": 7,
+    "image": 1,
+    "label": 2,
+    "rectangle": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button6": 9,
+    "Canvas1": 4,
+    "DataCard1": 5,
+    "Gallery2": 7,
+    "galleryTemplate2": 8,
+    "HomeScreen": 0,
+    "Icon2": 10,
+    "Image2": 1,
+    "Label1": 2,
+    "Label2": 3,
+    "Label3": 11,
+    "Rectangle3": 12,
+    "RectQuickActionBar1": 0,
+    "TabsContainer": 6
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1838477,
+    "ControlCount": {
+      "button": 1,
+      "dataCard": 1,
+      "fluidGrid": 1,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "groupContainer": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 3,
+      "rectangle": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.956481,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
